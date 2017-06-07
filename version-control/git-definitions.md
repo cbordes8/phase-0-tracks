@@ -11,4 +11,4 @@
 * What is a merge conflict?
 * `A merge conflict is when the files you change cant merge with orignal file and you need to fix and commit again `
 
-Hello my favorite teacherrrrrrrrrrrrr
+Hello my favorite teacherrrrrrrrrrrrrrr
