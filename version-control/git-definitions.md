@@ -10,3 +10,5 @@
 * `A commit a is command that saves or records the changes you make to the repository and what makes a good one is stating the changing you've made in the file.`
 * What is a merge conflict?
 * `A merge conflict is when the files you change cant merge with orignal file and you need to fix and commit again `
+
+Hello my favorite teacherrrrrrrrrrrrr
