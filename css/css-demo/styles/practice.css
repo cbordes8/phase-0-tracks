@@ -12,3 +12,13 @@
 .ul {
 	font-size: .8em;
 }
+/* The .ul is is an example of selecting a child element
+within another one.
+*/
+a: link {
+	color: cyan;
+}
+
+.external: link {
+	color: green;
+}
