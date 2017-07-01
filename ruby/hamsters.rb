@@ -19,4 +19,4 @@ if age == ""
   age = nil 
 end 
 
-puts "Your hamster’s name is #{hamstername}. Your hamster’s volume is #{hamstervol}. Your hamster is #{color}. Is this hamster adoptable? #{adoption}. This hamster is #{age} years old."
+puts "Your hamster’s name is #{hamstername}. Your hamster’s volume is #{hamstervol}. Your hamster is #{color}. Is this hamster adoptable? #{adoption}. This hamster is #{age} years old!"
