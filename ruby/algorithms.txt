@@ -1,0 +1,36 @@
+Robot
+Step1: Enter the elevator with master 
+Step2: First ask master what floor he/she is on(First_num)
+Step3: Scan the rows of buttons
+Step4: Once found scan for the lowest and highest number(Second_num)
+Step5: Ask master what floor he or she would like to go to within the range of numbers.
+Step6: If the floor number matches the number your master told you(If First_num = Second_num)
+say "We are already here! Humans are sooooo dumb! Time to take over mwhahahahah oh wait did I say that out loud?"
+Step7: If the floor is different than push the button equal to the value of the (Second_num)
+
+Realse 1 Making PB&J in my house 
+Enter kitchen 
+Take 3 steps
+Turn right 
+Grab PB&J on shelf 
+Turn Left 
+Take 3 steps 
+Place items on counter 
+Place hand 3 inches down 
+Place hand on handle and grip 
+Pull drawer 
+Grab knife 
+Place knife on counter
+*Breads already on counter*
+Grab PB and place hand on lid and grip and twist left then place PB on counter 
+Grab Jelly and place hand on lid and grip and twist left then place Jelly on counter 
+Grab knife with right hand and dip it into jelly and scoop knife out 
+Take left hand and grab a slice bread and take right hand and spread knife on bread 
+Put bread in left hand down with jelly face up
+Grab knife with right hand and dip it into PB and scoop knife out 
+Take left hand and grab bread and take right hand and spread knife on bread 
+Put bread in left hand down with PB face up 
+Grab Jelly and place it on top of PB slice face down 
+
+
+ 
