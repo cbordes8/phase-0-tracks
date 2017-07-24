@@ -5,6 +5,6 @@
 function reverse(string) {
   return string.split('').reverse().join('');
 }
-reverse("palindrome")
+reverse("palindrome!")
 
 Boolean(1 == 1)
