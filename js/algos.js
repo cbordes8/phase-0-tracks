@@ -21,3 +21,18 @@ function shareKeys(one, two){
 }
 
 shareKeys(["hello"], ["hello"])
+
+function wordGen(number) {
+ var newStringArray = [];
+
+ for (var i = 0; i < number; i++) {
+   var abc = "abcdefghijklmnopqrstuvwxyz";
+   var randomString = "";
+   var randomNum = Math.floor(Math.random() * 10) + 1;
+ for (var j = 0; j < randomNum; j++ ) {
+   randomString += (abc[Math.round(Math.random() * 25)]);
+ }
+
+ newStringArray.push(randomString);
+ }
+ return newStringArray;
